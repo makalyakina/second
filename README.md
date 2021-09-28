@@ -1,2 +1,2 @@
 # second
-fhfhfhfhhfh
+Привет, студент Маша
